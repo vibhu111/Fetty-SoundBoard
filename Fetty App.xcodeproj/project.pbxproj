@@ -1,0 +1,441 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FE42284B1B5DDD5600B0FB88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE42284A1B5DDD5600B0FB88 /* AppDelegate.swift */; };
+		FE42284E1B5DDD5600B0FB88 /* Fetty_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FE42284C1B5DDD5600B0FB88 /* Fetty_App.xcdatamodeld */; };
+		FE4228501B5DDD5600B0FB88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE42284F1B5DDD5600B0FB88 /* ViewController.swift */; };
+		FE4228531B5DDD5600B0FB88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE4228511B5DDD5600B0FB88 /* Main.storyboard */; };
+		FE4228551B5DDD5600B0FB88 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE4228541B5DDD5600B0FB88 /* Images.xcassets */; };
+		FE4228581B5DDD5600B0FB88 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FE4228561B5DDD5600B0FB88 /* LaunchScreen.xib */; };
+		FE4228641B5DDD5600B0FB88 /* Fetty_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4228631B5DDD5600B0FB88 /* Fetty_AppTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FE42285E1B5DDD5600B0FB88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FE42283D1B5DDD5600B0FB88 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FE4228441B5DDD5600B0FB88;
+			remoteInfo = "Fetty App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FE4228451B5DDD5600B0FB88 /* Fetty App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fetty App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE4228491B5DDD5600B0FB88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE42284A1B5DDD5600B0FB88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FE42284D1B5DDD5600B0FB88 /* Fetty_App.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Fetty_App.xcdatamodel; sourceTree = "<group>"; };
+		FE42284F1B5DDD5600B0FB88 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FE4228521B5DDD5600B0FB88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FE4228541B5DDD5600B0FB88 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FE4228571B5DDD5600B0FB88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		FE42285D1B5DDD5600B0FB88 /* Fetty AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fetty AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE4228621B5DDD5600B0FB88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE4228631B5DDD5600B0FB88 /* Fetty_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetty_AppTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FE4228421B5DDD5600B0FB88 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FE42285A1B5DDD5600B0FB88 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FE42283C1B5DDD5600B0FB88 = {
+			isa = PBXGroup;
+			children = (
+				FE4228471B5DDD5600B0FB88 /* Fetty App */,
+				FE4228601B5DDD5600B0FB88 /* Fetty AppTests */,
+				FE4228461B5DDD5600B0FB88 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FE4228461B5DDD5600B0FB88 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FE4228451B5DDD5600B0FB88 /* Fetty App.app */,
+				FE42285D1B5DDD5600B0FB88 /* Fetty AppTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FE4228471B5DDD5600B0FB88 /* Fetty App */ = {
+			isa = PBXGroup;
+			children = (
+				FE42284A1B5DDD5600B0FB88 /* AppDelegate.swift */,
+				FE42284F1B5DDD5600B0FB88 /* ViewController.swift */,
+				FE4228511B5DDD5600B0FB88 /* Main.storyboard */,
+				FE4228541B5DDD5600B0FB88 /* Images.xcassets */,
+				FE4228561B5DDD5600B0FB88 /* LaunchScreen.xib */,
+				FE42284C1B5DDD5600B0FB88 /* Fetty_App.xcdatamodeld */,
+				FE4228481B5DDD5600B0FB88 /* Supporting Files */,
+			);
+			path = "Fetty App";
+			sourceTree = "<group>";
+		};
+		FE4228481B5DDD5600B0FB88 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FE4228491B5DDD5600B0FB88 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FE4228601B5DDD5600B0FB88 /* Fetty AppTests */ = {
+			isa = PBXGroup;
+			children = (
+				FE4228631B5DDD5600B0FB88 /* Fetty_AppTests.swift */,
+				FE4228611B5DDD5600B0FB88 /* Supporting Files */,
+			);
+			path = "Fetty AppTests";
+			sourceTree = "<group>";
+		};
+		FE4228611B5DDD5600B0FB88 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FE4228621B5DDD5600B0FB88 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FE4228441B5DDD5600B0FB88 /* Fetty App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FE4228671B5DDD5600B0FB88 /* Build configuration list for PBXNativeTarget "Fetty App" */;
+			buildPhases = (
+				FE4228411B5DDD5600B0FB88 /* Sources */,
+				FE4228421B5DDD5600B0FB88 /* Frameworks */,
+				FE4228431B5DDD5600B0FB88 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Fetty App";
+			productName = "Fetty App";
+			productReference = FE4228451B5DDD5600B0FB88 /* Fetty App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FE42285C1B5DDD5600B0FB88 /* Fetty AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FE42286A1B5DDD5600B0FB88 /* Build configuration list for PBXNativeTarget "Fetty AppTests" */;
+			buildPhases = (
+				FE4228591B5DDD5600B0FB88 /* Sources */,
+				FE42285A1B5DDD5600B0FB88 /* Frameworks */,
+				FE42285B1B5DDD5600B0FB88 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FE42285F1B5DDD5600B0FB88 /* PBXTargetDependency */,
+			);
+			name = "Fetty AppTests";
+			productName = "Fetty AppTests";
+			productReference = FE42285D1B5DDD5600B0FB88 /* Fetty AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FE42283D1B5DDD5600B0FB88 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = VG;
+				TargetAttributes = {
+					FE4228441B5DDD5600B0FB88 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					FE42285C1B5DDD5600B0FB88 = {
+						CreatedOnToolsVersion = 6.4;
+						TestTargetID = FE4228441B5DDD5600B0FB88;
+					};
+				};
+			};
+			buildConfigurationList = FE4228401B5DDD5600B0FB88 /* Build configuration list for PBXProject "Fetty App" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FE42283C1B5DDD5600B0FB88;
+			productRefGroup = FE4228461B5DDD5600B0FB88 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FE4228441B5DDD5600B0FB88 /* Fetty App */,
+				FE42285C1B5DDD5600B0FB88 /* Fetty AppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FE4228431B5DDD5600B0FB88 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FE4228531B5DDD5600B0FB88 /* Main.storyboard in Resources */,
+				FE4228581B5DDD5600B0FB88 /* LaunchScreen.xib in Resources */,
+				FE4228551B5DDD5600B0FB88 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FE42285B1B5DDD5600B0FB88 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FE4228411B5DDD5600B0FB88 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FE4228501B5DDD5600B0FB88 /* ViewController.swift in Sources */,
+				FE42284E1B5DDD5600B0FB88 /* Fetty_App.xcdatamodeld in Sources */,
+				FE42284B1B5DDD5600B0FB88 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FE4228591B5DDD5600B0FB88 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FE4228641B5DDD5600B0FB88 /* Fetty_AppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FE42285F1B5DDD5600B0FB88 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FE4228441B5DDD5600B0FB88 /* Fetty App */;
+			targetProxy = FE42285E1B5DDD5600B0FB88 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FE4228511B5DDD5600B0FB88 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FE4228521B5DDD5600B0FB88 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FE4228561B5DDD5600B0FB88 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FE4228571B5DDD5600B0FB88 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FE4228651B5DDD5600B0FB88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FE4228661B5DDD5600B0FB88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FE4228681B5DDD5600B0FB88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Fetty App/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		FE4228691B5DDD5600B0FB88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Fetty App/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		FE42286B1B5DDD5600B0FB88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Fetty AppTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fetty App.app/Fetty App";
+			};
+			name = Debug;
+		};
+		FE42286C1B5DDD5600B0FB88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Fetty AppTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fetty App.app/Fetty App";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FE4228401B5DDD5600B0FB88 /* Build configuration list for PBXProject "Fetty App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FE4228651B5DDD5600B0FB88 /* Debug */,
+				FE4228661B5DDD5600B0FB88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FE4228671B5DDD5600B0FB88 /* Build configuration list for PBXNativeTarget "Fetty App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FE4228681B5DDD5600B0FB88 /* Debug */,
+				FE4228691B5DDD5600B0FB88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FE42286A1B5DDD5600B0FB88 /* Build configuration list for PBXNativeTarget "Fetty AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FE42286B1B5DDD5600B0FB88 /* Debug */,
+				FE42286C1B5DDD5600B0FB88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		FE42284C1B5DDD5600B0FB88 /* Fetty_App.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				FE42284D1B5DDD5600B0FB88 /* Fetty_App.xcdatamodel */,
+			);
+			currentVersion = FE42284D1B5DDD5600B0FB88 /* Fetty_App.xcdatamodel */;
+			path = Fetty_App.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = FE42283D1B5DDD5600B0FB88 /* Project object */;
+}
