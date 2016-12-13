@@ -14,6 +14,25 @@
 		FE4228551B5DDD5600B0FB88 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE4228541B5DDD5600B0FB88 /* Images.xcassets */; };
 		FE4228581B5DDD5600B0FB88 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FE4228561B5DDD5600B0FB88 /* LaunchScreen.xib */; };
 		FE4228641B5DDD5600B0FB88 /* Fetty_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4228631B5DDD5600B0FB88 /* Fetty_AppTests.swift */; };
+		FE42286E1B5DE03500B0FB88 /* buttonTemp.png in Resources */ = {isa = PBXBuildFile; fileRef = FE42286D1B5DE03500B0FB88 /* buttonTemp.png */; };
+		FE4228701B5DE29F00B0FB88 /* button2.png in Resources */ = {isa = PBXBuildFile; fileRef = FE42286F1B5DE29F00B0FB88 /* button2.png */; };
+		FE4228741B5DE42600B0FB88 /* button3.png in Resources */ = {isa = PBXBuildFile; fileRef = FE4228731B5DE42600B0FB88 /* button3.png */; };
+		FE4228761B5DE4D900B0FB88 /* button4.png in Resources */ = {isa = PBXBuildFile; fileRef = FE4228751B5DE4D900B0FB88 /* button4.png */; };
+		FE4B82C21B5EBFEE00BD62E0 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4B82C11B5EBFEE00BD62E0 /* InfoViewController.swift */; };
+		FE80B1E31B657DC700F45DCC /* Volume Controls Volume up.ico in Resources */ = {isa = PBXBuildFile; fileRef = FE80B1E21B657DC700F45DCC /* Volume Controls Volume up.ico */; };
+		FE938A241B5F0DA9000AAB87 /* remyBoyzz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE938A231B5F0DA9000AAB87 /* remyBoyzz.mp3 */; };
+		FE938A261B5F0E61000AAB87 /* 1738.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE938A251B5F0E61000AAB87 /* 1738.mp3 */; };
+		FE938A281B5F0EB6000AAB87 /* trapQueen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE938A271B5F0EB6000AAB87 /* trapQueen.mp3 */; };
+		FE99833F1B6566D3001E50FC /* skaaaaaa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE99833E1B6566D3001E50FC /* skaaaaaa.mp3 */; };
+		FEC0495E1B5E8C300043CDB0 /* RapScript_Fade_09.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE6646091B5DEF0200E5407C /* RapScript_Fade_09.otf */; };
+		FEC0496B1B5E8C530043CDB0 /* Fetty wap - My Way.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEC049611B5E8C530043CDB0 /* Fetty wap - My Way.mp3 */; };
+		FEC0496C1B5E8C530043CDB0 /* fetty wap trap queen rough - [MP3HIP.com].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEC049621B5E8C530043CDB0 /* fetty wap trap queen rough - [MP3HIP.com].mp3 */; };
+		FEC0496D1B5E8C530043CDB0 /* gotta sack for us to roll.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEC049631B5E8C530043CDB0 /* gotta sack for us to roll.mp3 */; };
+		FEC0496E1B5E8C530043CDB0 /* im like hey wasup hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEC049641B5E8C530043CDB0 /* im like hey wasup hello.mp3 */; };
+		FEC0496F1B5E8C530043CDB0 /* myway.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEC049651B5E8C530043CDB0 /* myway.mp3 */; };
+		FEC049701B5E8C530043CDB0 /* remmyBozzz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEC049661B5E8C530043CDB0 /* remmyBozzz.mp3 */; };
+		FEC049721B5E8C530043CDB0 /* Yeah baby.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEC049681B5E8C530043CDB0 /* Yeah baby.mp3 */; };
+		FEC049731B5E8C530043CDB0 /* Zoomzoom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEC049691B5E8C530043CDB0 /* Zoomzoom.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +57,25 @@
 		FE42285D1B5DDD5600B0FB88 /* Fetty AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fetty AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE4228621B5DDD5600B0FB88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FE4228631B5DDD5600B0FB88 /* Fetty_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetty_AppTests.swift; sourceTree = "<group>"; };
+		FE42286D1B5DE03500B0FB88 /* buttonTemp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttonTemp.png; sourceTree = "<group>"; };
+		FE42286F1B5DE29F00B0FB88 /* button2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button2.png; sourceTree = "<group>"; };
+		FE4228731B5DE42600B0FB88 /* button3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button3.png; sourceTree = "<group>"; };
+		FE4228751B5DE4D900B0FB88 /* button4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button4.png; sourceTree = "<group>"; };
+		FE4B82C11B5EBFEE00BD62E0 /* InfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		FE6646091B5DEF0200E5407C /* RapScript_Fade_09.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = RapScript_Fade_09.otf; sourceTree = "<group>"; };
+		FE80B1E21B657DC700F45DCC /* Volume Controls Volume up.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = "Volume Controls Volume up.ico"; sourceTree = "<group>"; };
+		FE938A231B5F0DA9000AAB87 /* remyBoyzz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = remyBoyzz.mp3; sourceTree = "<group>"; };
+		FE938A251B5F0E61000AAB87 /* 1738.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1738.mp3; sourceTree = "<group>"; };
+		FE938A271B5F0EB6000AAB87 /* trapQueen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = trapQueen.mp3; sourceTree = "<group>"; };
+		FE99833E1B6566D3001E50FC /* skaaaaaa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = skaaaaaa.mp3; sourceTree = "<group>"; };
+		FEC049611B5E8C530043CDB0 /* Fetty wap - My Way.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Fetty wap - My Way.mp3"; sourceTree = "<group>"; };
+		FEC049621B5E8C530043CDB0 /* fetty wap trap queen rough - [MP3HIP.com].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "fetty wap trap queen rough - [MP3HIP.com].mp3"; sourceTree = "<group>"; };
+		FEC049631B5E8C530043CDB0 /* gotta sack for us to roll.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "gotta sack for us to roll.mp3"; sourceTree = "<group>"; };
+		FEC049641B5E8C530043CDB0 /* im like hey wasup hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "im like hey wasup hello.mp3"; sourceTree = "<group>"; };
+		FEC049651B5E8C530043CDB0 /* myway.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = myway.mp3; sourceTree = "<group>"; };
+		FEC049661B5E8C530043CDB0 /* remmyBozzz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = remmyBozzz.mp3; sourceTree = "<group>"; };
+		FEC049681B5E8C530043CDB0 /* Yeah baby.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yeah baby.mp3"; sourceTree = "<group>"; };
+		FEC049691B5E8C530043CDB0 /* Zoomzoom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Zoomzoom.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,9 +120,17 @@
 				FE42284A1B5DDD5600B0FB88 /* AppDelegate.swift */,
 				FE42284F1B5DDD5600B0FB88 /* ViewController.swift */,
 				FE4228511B5DDD5600B0FB88 /* Main.storyboard */,
+				FE4B82C11B5EBFEE00BD62E0 /* InfoViewController.swift */,
 				FE4228541B5DDD5600B0FB88 /* Images.xcassets */,
 				FE4228561B5DDD5600B0FB88 /* LaunchScreen.xib */,
 				FE42284C1B5DDD5600B0FB88 /* Fetty_App.xcdatamodeld */,
+				FE42286D1B5DE03500B0FB88 /* buttonTemp.png */,
+				FE42286F1B5DE29F00B0FB88 /* button2.png */,
+				FE4228731B5DE42600B0FB88 /* button3.png */,
+				FE80B1E21B657DC700F45DCC /* Volume Controls Volume up.ico */,
+				FE4228751B5DE4D900B0FB88 /* button4.png */,
+				FE6646091B5DEF0200E5407C /* RapScript_Fade_09.otf */,
+				FEC0495F1B5E8C530043CDB0 /* Sounds */,
 				FE4228481B5DDD5600B0FB88 /* Supporting Files */,
 			);
 			path = "Fetty App";
@@ -113,6 +159,25 @@
 				FE4228621B5DDD5600B0FB88 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FEC0495F1B5E8C530043CDB0 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				FEC049611B5E8C530043CDB0 /* Fetty wap - My Way.mp3 */,
+				FEC049621B5E8C530043CDB0 /* fetty wap trap queen rough - [MP3HIP.com].mp3 */,
+				FEC049631B5E8C530043CDB0 /* gotta sack for us to roll.mp3 */,
+				FEC049641B5E8C530043CDB0 /* im like hey wasup hello.mp3 */,
+				FE938A271B5F0EB6000AAB87 /* trapQueen.mp3 */,
+				FE938A251B5F0E61000AAB87 /* 1738.mp3 */,
+				FEC049651B5E8C530043CDB0 /* myway.mp3 */,
+				FE99833E1B6566D3001E50FC /* skaaaaaa.mp3 */,
+				FEC049661B5E8C530043CDB0 /* remmyBozzz.mp3 */,
+				FE938A231B5F0DA9000AAB87 /* remyBoyzz.mp3 */,
+				FEC049681B5E8C530043CDB0 /* Yeah baby.mp3 */,
+				FEC049691B5E8C530043CDB0 /* Zoomzoom.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,9 +229,12 @@
 				TargetAttributes = {
 					FE4228441B5DDD5600B0FB88 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = Y4V9E48372;
+						LastSwiftMigration = 0810;
 					};
 					FE42285C1B5DDD5600B0FB88 = {
 						CreatedOnToolsVersion = 6.4;
+						LastSwiftMigration = 0810;
 						TestTargetID = FE4228441B5DDD5600B0FB88;
 					};
 				};
@@ -196,8 +264,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE4228531B5DDD5600B0FB88 /* Main.storyboard in Resources */,
+				FEC0496F1B5E8C530043CDB0 /* myway.mp3 in Resources */,
+				FE99833F1B6566D3001E50FC /* skaaaaaa.mp3 in Resources */,
+				FEC0496B1B5E8C530043CDB0 /* Fetty wap - My Way.mp3 in Resources */,
+				FEC0496D1B5E8C530043CDB0 /* gotta sack for us to roll.mp3 in Resources */,
+				FEC049701B5E8C530043CDB0 /* remmyBozzz.mp3 in Resources */,
 				FE4228581B5DDD5600B0FB88 /* LaunchScreen.xib in Resources */,
+				FEC0496E1B5E8C530043CDB0 /* im like hey wasup hello.mp3 in Resources */,
+				FEC049721B5E8C530043CDB0 /* Yeah baby.mp3 in Resources */,
+				FE4228701B5DE29F00B0FB88 /* button2.png in Resources */,
+				FE80B1E31B657DC700F45DCC /* Volume Controls Volume up.ico in Resources */,
 				FE4228551B5DDD5600B0FB88 /* Images.xcassets in Resources */,
+				FE42286E1B5DE03500B0FB88 /* buttonTemp.png in Resources */,
+				FEC049731B5E8C530043CDB0 /* Zoomzoom.mp3 in Resources */,
+				FE938A241B5F0DA9000AAB87 /* remyBoyzz.mp3 in Resources */,
+				FEC0495E1B5E8C300043CDB0 /* RapScript_Fade_09.otf in Resources */,
+				FE938A261B5F0E61000AAB87 /* 1738.mp3 in Resources */,
+				FE938A281B5F0EB6000AAB87 /* trapQueen.mp3 in Resources */,
+				FEC0496C1B5E8C530043CDB0 /* fetty wap trap queen rough - [MP3HIP.com].mp3 in Resources */,
+				FE4228761B5DE4D900B0FB88 /* button4.png in Resources */,
+				FE4228741B5DE42600B0FB88 /* button3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,6 +303,7 @@
 			files = (
 				FE4228501B5DDD5600B0FB88 /* ViewController.swift in Sources */,
 				FE42284E1B5DDD5600B0FB88 /* Fetty_App.xcdatamodeld in Sources */,
+				FE4B82C21B5EBFEE00BD62E0 /* InfoViewController.swift in Sources */,
 				FE42284B1B5DDD5600B0FB88 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -344,9 +431,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Fetty App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -354,9 +444,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Fetty App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -375,6 +468,7 @@
 				INFOPLIST_FILE = "Fetty AppTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fetty App.app/Fetty App";
 			};
 			name = Debug;
@@ -390,6 +484,7 @@
 				INFOPLIST_FILE = "Fetty AppTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fetty App.app/Fetty App";
 			};
 			name = Release;
@@ -413,6 +508,7 @@
 				FE4228691B5DDD5600B0FB88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FE42286A1B5DDD5600B0FB88 /* Build configuration list for PBXNativeTarget "Fetty AppTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +517,7 @@
 				FE42286C1B5DDD5600B0FB88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
